@@ -1,0 +1,4 @@
+abc = 3+1*6/3;
+bq = 3;
+rap = 9;
+2+abc*bq-rap;

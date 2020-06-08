@@ -1,0 +1,20 @@
+﻿  Functions.cpp
+D:\Laboratorna5\Laboratorna5\Laboratorna5\Functions.cpp(44,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Laboratorna5\Laboratorna5\Laboratorna5\Functions.cpp(57,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Laboratorna5\Laboratorna5\Laboratorna5\Functions.cpp(80,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Laboratorna5\Laboratorna5\Laboratorna5\Functions.cpp(101,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Laboratorna5\Laboratorna5\Laboratorna5\Functions.cpp(106,37): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Laboratorna5\Laboratorna5\Laboratorna5\Functions.cpp(109,16): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+D:\Laboratorna5\Laboratorna5\Laboratorna5\Functions.cpp(123,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Laboratorna5\Laboratorna5\Laboratorna5\Functions.cpp(126,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Laboratorna5\Laboratorna5\Laboratorna5\Functions.cpp(129,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Laboratorna5\Laboratorna5\Laboratorna5\Functions.cpp(136,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Laboratorna5.cpp
+  tree.cpp
+D:\Laboratorna5\Laboratorna5\Laboratorna5\Functions.cpp(140,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Laboratorna5\Laboratorna5\Laboratorna5\tree.cpp(16,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Laboratorna5\Laboratorna5\Laboratorna5\tree.cpp(19,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+D:\Laboratorna5\Laboratorna5\Laboratorna5\tree.cpp(78,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Laboratorna5\Laboratorna5\Laboratorna5\Functions.cpp(72): warning C4715: priority: значение возвращается не при всех путях выполнения
+  Laboratorna5.vcxproj -> D:\Laboratorna5\Laboratorna5\Debug\Laboratorna5.exe
